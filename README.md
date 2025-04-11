@@ -1,2 +1,2 @@
 # credit_risk_classification
-Help from tutor to complete this assignment.
+Help from tutor to complete this assignment, as well as guideance from chat gpt and co-pilot.
