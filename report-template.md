@@ -32,25 +32,28 @@ In this section, describe the analysis you completed for the machine learning mo
 
 Using bulleted lists, describe the accuracy scores and the precision and recall scores of all machine learning models.
 
-* Machine Learning Model 1:
-    * Description of Model 1 Accuracy, Precision, and Recall scores.
-
-
-                    precision    recall  f1-score   support
-
-    *
-    * Low Risk       1.00      0.99      1.00     18765
-    *
-    *High Risk       0.84      0.94      0.89       619
-
-    *
-    *accuracy                            0.99     19384
-    *
-    *macro avg       0.92      0.97      0.94     19384
-    *
-    *weighted avg    0.99      0.99      0.99     19384
-
-
+* **Machine Learning Model 1:**
+  * **Accuracy:** 0.99
+  * **Precision:**
+    * Low Risk: 1.00
+    * High Risk: 0.84
+  * **Recall:**
+    * Low Risk: 0.99
+    * High Risk: 0.94
+  * **F1-Score:**
+    * Low Risk: 1.00
+    * High Risk: 0.89
+  * **Support:**
+    * Low Risk: 18,765
+    * High Risk: 619
+  * **Macro Average:**
+    * Precision: 0.92
+    * Recall: 0.97
+    * F1-Score: 0.94
+  * **Weighted Average:**
+    * Precision: 0.99
+    * Recall: 0.99
+    * F1-Score: 0.99
 ## Summary
 
 Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. For example:
